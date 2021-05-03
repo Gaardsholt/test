@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1beta2
+kind: TechRadar
+metadata:
+  name: Radar-1
+  title: First Radar
+  description: This is the TechRadar for team xx
+spec:
+  owner: backstage/techdocs-core
+  type: service
