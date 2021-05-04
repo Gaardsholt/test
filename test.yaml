@@ -1,5 +1,5 @@
-apiVersion: backstage.io/v1beta2
-kind: system-x
+apiVersion: backstage.io/v1alpha1
+kind: TechRadar
 metadata:
   name: Radar-1
   title: First Radar
