@@ -14,8 +14,3 @@ spec:
   type: service
   lifecycle: experimental
   owner: engineering-services
-
-this:
-  is:
-    not:
-      valid: 1
