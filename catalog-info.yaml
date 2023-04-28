@@ -1,17 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: tester
-  title: "es:tester"
-  description: just a test repo
+  name: sync-patrol
+  description: Check sync between BFF and Core Services
   annotations:
-    backstage.io/adr-location: docs/adrs
-    github.com/project-slug: BESTSELLER/tester
-  tags:
-    - EWE
-    - hejsa
+    github.com/project-slug: BESTSELLER/sync-patrol
 spec:
   type: service
   lifecycle: experimental
-  owner: engineering-services
-
+  owner: @BESTSELLER/sales-and-invoicing
