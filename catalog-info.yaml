@@ -8,4 +8,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: @BESTSELLER/sales-and-invoicing
+  owner: "@BESTSELLER/sales-and-invoicing"
