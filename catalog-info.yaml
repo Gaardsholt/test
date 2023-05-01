@@ -4,8 +4,8 @@ metadata:
   name: sync-patrol
   description: Check sync between BFF and Core Services
   annotations:
-    github.com/project-slug: Gaardsholt/tests
-    circleci.com/project-slug: github/Gaardsholt/barcoders
+    github.com/project-slug: Gaardsholt/test
+    circleci.com/project-slug: github/Gaardsholt/barcoder
 spec:
   type: service
   lifecycle: experimental
