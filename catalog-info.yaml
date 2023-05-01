@@ -9,20 +9,6 @@ spec:
   type: service
   lifecycle: experimental
   owner: "@BESTSELLER/sales-and-invoicing"
----
-apiVersion: backstage.io/v1alpha1
-kind: API
-metadata:
-  name: sync-patrol-api
-  description: sync-patrol api
-spec:
-  type: openapi
-  lifecycle: production
-  owner: "@BESTSELLER/sales-and-invoicing"
-  system: sync-patrol
-  definition:
-    $text: https://github.com/BESTSELLER/sync-patrol/blob/master/docs/swagger.yaml #After api has been deployed change this to "https://sync-patrol.k8s.bestcorp.net"
-
 
 
 
