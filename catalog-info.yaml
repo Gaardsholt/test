@@ -4,7 +4,7 @@ metadata:
   name: sync-patrol
   description: Check sync between BFF and Core Services
   annotations:
-    github.com/project-slug: BESTSELLER/sync-patrol
+    github.com/project-slug: Gaardsholt/test
 spec:
   type: service
   lifecycle: experimental
