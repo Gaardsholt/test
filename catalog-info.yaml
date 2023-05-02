@@ -25,4 +25,3 @@ spec:
 #     $text: https://github.com/BESTSELLER/sync-patrol/blob/master/docs/swagger.yaml #After api has been deployed change this to "https://sync-patrol.k8s.bestcorp.net"
 
 
-
